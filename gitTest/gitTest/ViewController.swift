@@ -14,6 +14,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Git test")
         print("test 2")
+        print("test 3")
+        func test() {
+            print("test")
+        }
+        for i in 0..<10 {
+            print(i)
+        }
     }
 
 
